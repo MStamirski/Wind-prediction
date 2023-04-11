@@ -22,3 +22,7 @@ User can chose years from which traning and testing data are collected (both fro
 As a result program shows MAE and MAPE metrics, calculated for predictions as well as for baseline model, which gives data from a day of prediction as a prediction. The negative difference between metrics of these two models signifies, that predictions are valuable.
 
 Comparisons are also showed on diagrams and animations.
+
+Project is described in details on my Medium:
+
+https://medium.com/@maciej_stamirski/wind-forecasting-using-neural-networks-390486be7bf
