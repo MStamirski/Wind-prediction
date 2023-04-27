@@ -17,11 +17,13 @@ In 12 hours prediction, calculations use also matrix 15x15 and neural network mo
 
 All hyperparameters were optimized for each model and prediction period separately.
 
-User can chose years from which traning and testing data are collected (both from range 1989-2018).
+User can choose years from which traning and testing data are collected (both from range 1989-2018).
 
 As a result program shows MAE and MAPE metrics, calculated for predictions as well as for baseline model, which gives data from a day of prediction as a prediction. The negative difference between metrics of these two models signifies, that predictions are valuable.
 
-Comparisons are also showed on diagrams and animations.
+Comparisons are also shown on diagrams and animations. An example of program's outcome is included in the notebook "WIND - outcome". Animated results of prediction look like on the gif below:
+
+![](https://github.com/MStamirski/Wind-prediction/blob/main/arrowspin.gif)
 
 Project is described in details on my Medium:
 
