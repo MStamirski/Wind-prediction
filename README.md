@@ -4,6 +4,8 @@ Notebook with this project contains a program, which predicts a speed and direct
 
 It is based on data provided on the website https://map.neweuropeanwindatlas.eu/
 
+I decided to base the predictions on wind parameters at the moment of prediction in many points with different distances from chosen location, instead of basing on time series.
+
 Program downloads data from area around chosen coordinates. These data consist of wind speed (in m/s) and direction (in degrees) in nodes of gride, distant from each other by 3 kilometers.
 
 Four periods of prediction are assumed: 1.5 hour, 3 hours, 6 hours and 12 hours.
